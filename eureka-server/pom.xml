@@ -16,10 +16,6 @@
 		<relativePath>../base-parent</relativePath>
 	</parent>
 
-	<properties>
-		<spring-cloud.version>Dalston.SR1</spring-cloud.version>
-	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
